@@ -1,5 +1,5 @@
 {
-  "name": "bike-racer",
+  "name": "tilt_fire_test",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "expo": "~54.0.25",
+    "expo-sensors": "~15.0.7",
     "expo-status-bar": "~3.0.8",
+    "matter-js": "^0.20.0",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-game-engine": "^1.2.0"
   },
   "private": true
 }
